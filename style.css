@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.col-md-5{
+    margin-top: 150px !important;
+    background-color: white;
+    padding: 30px;
+}
+input{
+    display: inline-block !important;
+}
+label{
+    margin-top: 10px !important;
+    width: 19%;
+}
+
+button{
+    margin-left: 18vw;
+    margin-top: 25px !important;
+}
+textarea{
+        vertical-align: text-top;
+        margin-left: 87px;
+}
+.field{
+    margin: 20px 0px;
+}
+.box{
+        width: 60%;
+        margin: auto;
+}
+.form-control {
+    display: inline-block;
+    width: 63%;
+}
+
+.success{
+    border: 3px solid green;
+}
+.error{
+    border: 3px solid red;
+}
+small{
+    color: red;
+    font-weight: bolder;
+    margin: 5px !important;
+    text-align: left;
+    padding-left: 95px;
+}
